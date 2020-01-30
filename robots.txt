@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dohnageiw.feifei.life/sitemap.xml
